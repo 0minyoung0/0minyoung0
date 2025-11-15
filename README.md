@@ -1,3 +1,10 @@
+# 🧑‍💻 Careers
+
+|기간|내용|회사|
+|2024.01 ~ |Full Stack Developer|LG 전자|
+
+<hr>
+
 # 🥰 Educations
 
 |시작|종료|내용|
@@ -33,6 +40,3 @@
 
 ## Solved.ac 프로필
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darkard37)](https://solved.ac/darkard37/)
-
-## Github Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=0minyoung0&row=1&column=6&theme=dracula&margin-w=15)
